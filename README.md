@@ -7,3 +7,7 @@ Team -> Samet Ercan (@sametercan), Uğur Ata Dargün (@ugurdargun) and Murat Alk
     Android Studio 4.0
         minSdkVersion 24
         targetSdkVersion 30
+
+
+# Screenshots
+![Menu](https://images2.imgbox.com/b2/95/9fw1RwHT_o.png)
