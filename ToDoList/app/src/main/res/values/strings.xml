@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">To-Do List</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="mainActivity_FabContent">add_Fab</string>
+
+
+    <string name="fragment_ttype_1">All</string>
+    <string name="fragment_ttype_2">Today</string>
+    <string name="fragment_ttype_3">Planned</string>
+    <string name="fragment_ttype_4">Favorite</string>
+    <string name="fragment_ttype_5">Completed</string>
+    <string name="fragment_ttype_6">Past</string>
+
+
+    <string name="fragment_tcat_1">All</string>
+    <string name="fragment_tcat_2">General</string>
+    <string name="fragment_tcat_3">Business</string>
+    <string name="fragment_tcat_4">School</string>
+    <string name="fragment_tcat_5">Sport</string>
+    <string name="fragment_tcat_6">Housework</string>
+    <string name="fragment_tcat_7">Travel</string>
+
+
+</resources>
