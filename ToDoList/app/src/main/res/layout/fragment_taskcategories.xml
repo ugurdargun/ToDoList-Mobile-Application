@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/taskCategories_frameLayout1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="Fragments.Fragment_TaskCategories">
+
+    <HorizontalScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent">
+
+            <Button
+                android:id="@+id/tcat_button1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginEnd="2dp"
+                android:layout_weight="1"
+                android:backgroundTint="@color/selected_Color2"
+                android:text="@string/fragment_tcat_1" />
+
+            <Button
+                android:id="@+id/tcat_button2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginEnd="2dp"
+                android:layout_weight="1"
+                android:backgroundTint="@color/unselected_Color"
+                android:text="@string/fragment_tcat_2" />
+
+            <Button
+                android:id="@+id/tcat_button3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginEnd="2dp"
+                android:layout_weight="1"
+                android:backgroundTint="@color/unselected_Color"
+                android:text="@string/fragment_tcat_3" />
+
+            <Button
+                android:id="@+id/tcat_button4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginEnd="2dp"
+                android:layout_weight="1"
+                android:backgroundTint="@color/unselected_Color"
+                android:text="@string/fragment_tcat_4" />
+
+            <Button
+                android:id="@+id/tcat_button5"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginEnd="2dp"
+                android:layout_weight="1"
+                android:backgroundTint="@color/unselected_Color"
+                android:text="@string/fragment_tcat_5" />
+
+            <Button
+                android:id="@+id/tcat_button6"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginEnd="2dp"
+                android:layout_weight="1"
+                android:backgroundTint="@color/unselected_Color"
+                android:text="@string/fragment_tcat_6" />
+
+
+            <Button
+                android:id="@+id/tcat_button7"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginEnd="2dp"
+                android:layout_weight="1"
+                android:backgroundTint="@color/unselected_Color"
+                android:text="@string/fragment_tcat_7" />
+
+        </LinearLayout>
+    </HorizontalScrollView>
+
+</FrameLayout>

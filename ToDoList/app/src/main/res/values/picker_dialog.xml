@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="DialogTheme" parent="Theme.AppCompat.Light.Dialog">
+        <item name="colorAccent">@color/add_activity</item>
+        <item name="android:colorAccent">@color/add_activity</item>
+        <item name="colorOnPrimary">@color/add_activity</item>
+    </style>
+
+    <style name="DialogTheme2" parent="Theme.AppCompat.Light.Dialog">
+        <item name="colorAccent">@color/green_Color</item>
+        <item name="android:colorAccent">@color/green_Color</item>
+        <item name="colorOnPrimary">@color/green_Color</item>
+    </style>
+
+</resources>
