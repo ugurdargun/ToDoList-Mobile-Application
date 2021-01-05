@@ -1,4 +1,4 @@
-# To Do List | Mobile Application
+# To Do List | Android Application
 CTIS 487 Term Project
 
 Team -> Murat Alkan (@MuratAlkanW), Samet Ercan (@sametercan) and Uğur Ata Dargün (@ugurdargun)
