@@ -1,0 +1,28 @@
+{
+  "taskCategories": [
+    {
+      "name": "General",
+      "imgName": "img_general"
+    },
+    {
+      "name": "Business",
+      "imgName": "img_business"
+    },
+    {
+      "name": "School",
+      "imgName": "img_school"
+    },
+    {
+      "name": "Sport",
+      "imgName": "img_sport"
+    },
+    {
+      "name": "Housework",
+      "imgName": "img_housework"
+    },
+    {
+      "name": "Travel",
+      "imgName": "img_travel"
+    }
+  ]
+}
